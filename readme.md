@@ -34,12 +34,19 @@
       - Tìm hiểu cách kết nối cơ sở dữ liệu với các trang giao diện người dùng từ đó tiến hành xây dựng nên cơ sở dữ liệu lưu trữ các thông tin.
       - Xác định các thông tin của hệ thống cần lưu trữ sau đó tiến  hành thiết kế cơ sở dữ liệu bao gồm các bảng, các thực thể có trong bảng, các mối quan hệ giữa các bảng và thực hiện các câu truy vấn cần thiết.
     2. Giai đoạn 2: Chức năng mở rộng
+    
        2.1 Thiết kế các yêu cầu chức năng cho hệ thống:
+       
         2.1.1 Đối với sinh viên
+        
           -	Chức năng xem các học kỳ, các môn học đã học và điểm số tương ứng của môn học đó khi đăng nhập đúng với tài khoản sinh viên.
+          
           -	Chức năng kết xuất: xuất các dữ liệu điểm mà sinh viên có để tạo các báo cáo có hỗ trợ biểu đồ cho sinh viên dễ dàng đánh giá kết quả học tập của mình để có hướng cải thiện.
+          
         2.1.2 Đối với giảng viên
+        
           -	Sau khi đăng nhập hệ thống giảng viên có thể nhập điểm cho sinh viên theo môn học của giảng viên đó.
+          
           -	Xem danh sách điểm các sinh viên mà giảng viên đã nhập.
         2.1.3 Đối với quản trị viên hệ thống
           -	Sau khi đăng nhập hệ thống quản trị viên có quyền quản lý các tài khoản của sinh viên và giảng viên.
