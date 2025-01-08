@@ -1,0 +1,14 @@
+[1] PLC Tech, “WinForm là gì?”, 2014. [Online]. 
+Available: http://plctech.com.vn/winform-la-gi/. 
+
+[2] ByteSoft, “Lập trình C# và những điều có thể bạn chưa biết”, 2021. [Online]. 
+Available: https://bytesoft.vn/lap-trinh-c-va-nhung-dieu-co-the-ban-chua-biet/.
+
+[3] Bizfly Cloud, “WinForm là gì?”, 2022. [Online]. 
+Available: https://bizflycloud.vn/tin-tuc/winform-la-gi-20220627113605859.htm/.
+
+[4] SQL Server Tutorial, “What is SQL Server?”, 2024. [Online]. 
+Available: https://www.sqlservertutorial.net/getting-started/what-is-sql-server/.
+
+[5] Microsoft Support, “Kiến thức cơ bản về thiết kế CSDL”, 2024. [Online]. 
+Available: https://support.microsoft.com/vi-vn/topic/kiến-thức-cơ%20-bản-về-thiết-kế-csdl.
