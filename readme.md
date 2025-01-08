@@ -128,6 +128,6 @@
   
     Nếu bạn có bất kỳ thắc mắc hoặc gặp vấn đề trong quá trình cài đặt/sử dụng, vui lòng liên hệ qua:
     
-      Email: 110122232@st.tvu.edu.vn
+      Email: 110122231@st.tvu.edu.vn
       
       Sđt: 0983149203
